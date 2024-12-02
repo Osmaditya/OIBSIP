@@ -1,0 +1,32 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <link rel="stylesheet" href="style.css">
+    <link rel="icon" href="./checkbox_103909.ico" type="image/x-icon">
+    
+    <title>To-Do List - JavaScript Project</title>
+</head>
+<body>
+    <div class="container">
+        <div class="input-container">
+            <h1>My To Do List <img src="./todo.png" alt="todo icon" ></h1>
+            
+            <input type="text" placeholder="Enter a task to do..." id="inputBox">
+            <input type="button" value="Add" id="addBtn">
+        </div>
+
+        <div class="lists-container">
+            <h2>Pending Tasks</h2>
+            <ul class="todoList" id="pendingList"></ul>
+
+            <h2>Completed Tasks</h2>
+            <ul class="todoList" id="completedList"></ul>
+        </div>
+    </div>
+
+    <script src="script.js"></script>
+</body>
+</html>
