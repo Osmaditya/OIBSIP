@@ -24,7 +24,8 @@ This repository includes the following tasks from **Level 2**:
   - Features:  
     - Appealing layout with images and paragraphs.  
     - Creative use of different font styles, background colors, and layouts to enhance the design.  
-  - Tools Used: HTML and CSS.  
+  - Tools Used: HTML and CSS.
+  - [Live Project Preview](https://msdhoni-tributepage.netlify.app/)
 
 ### Task 3: To-Do App  
 - **Description**:  
@@ -60,7 +61,7 @@ The following tools and technologies were utilized in completing the tasks:
 
 1. Clone the repository to your local system:  
    ```bash
-   git clone https://github.com/osmaditya/OIBSIP.git
+   git clone https://github.com/osmaditya/OIBSIP-Level2.git
 2. Navigate to the task folder of your choice.
 3. Open the files in your preferred IDE or browser to view or edit them.
 
