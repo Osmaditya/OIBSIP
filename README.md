@@ -17,6 +17,7 @@ This repository includes the following tasks from **Level 2**:
     - Buttons aligned using the CSS grid system.  
   - Tools Used:  
     Event listeners, if-else statements, operators, and loops.  
+  - [Live Project Preview](https://mycalculatortask1.netlify.app/)
 
 ### Task 2: Tribute Page  
 - **Description**:  
@@ -37,6 +38,7 @@ This repository includes the following tasks from **Level 2**:
     - Options to edit or delete tasks from any list.  
     - Additional functionality to display the date and time when tasks are added or completed.  
   - Tools Used: HTML, CSS, and JavaScript.  
+  - [Live Project Preview](https://mytodolist-task03.netlify.app/)
 
 ### Task 4: Login Authentication  
 - **Description**:  
